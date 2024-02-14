@@ -1,4 +1,4 @@
-void plotMassVariations_addRatio() {
+void plotMassVariations() {
 
   TH1::SetDefaultSumw2();
   std::string syst = "JER";
